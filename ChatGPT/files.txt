@@ -1,0 +1,7 @@
+/home/hushengding/miniconda3/envs/bigmodels/lib/python3.8/site-packages/revChatGPT-1.1.5-py3.8.egg
+/home/hushengding/miniconda3/envs/bigmodels/bin/OfficialChatGPT
+/home/hushengding/miniconda3/envs/bigmodels/bin/revApiGPT
+/home/hushengding/miniconda3/envs/bigmodels/bin/revChatGPT
+/home/hushengding/miniconda3/envs/bigmodels/bin/openai
+/home/hushengding/miniconda3/envs/bigmodels/bin/tqdm
+/home/hushengding/miniconda3/envs/bigmodels/bin/normalizer
