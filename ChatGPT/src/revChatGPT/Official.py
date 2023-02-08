@@ -11,10 +11,11 @@ import openai
 import tiktoken
 
 # ENGINE = os.environ.get("GPT_ENGINE") or "text-chat-davinci-002-20221122"
+# ENCODER = tiktoken.get_encoding("gpt2")
 
 ENGINE = os.environ.get("GPT_ENGINE") or "text-davinci-003"
+ENCODER = tiktoken.get_encoding("p50k_base")
 
-ENCODER = tiktoken.get_encoding("gpt2")
 
 
 def get_max_tokens(prompt: str) -> int:
